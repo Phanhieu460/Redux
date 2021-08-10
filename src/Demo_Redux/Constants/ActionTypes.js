@@ -1,0 +1,1 @@
+export const SHOW_INPUT_FORM = "SHOW_INPUT_FORM";
