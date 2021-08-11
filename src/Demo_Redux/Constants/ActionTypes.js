@@ -1,1 +1,2 @@
-export const SHOW_INPUT_FORM = "SHOW_INPUT_FORM";
+export const GET_LIST_ACCOUNT = "GET_LIST_ACCOUNT";
+export const ADD_LIST_ACCOUNT = "ADD_LIST_ACCOUNT";
